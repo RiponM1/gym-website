@@ -1,0 +1,159 @@
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .navbar-toggler i {
+        color: white;
+        border: white solid 2px;
+        padding: 5px 10px;
+        border-radius: 7px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu ul {
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .fintezzHead h1 {
+        text-align: center;
+    }
+
+    .fitnezzText {
+        text-align: justify;
+        padding-right: 0px;
+    }
+
+    .all_puts {
+        text-align: center;
+    }
+
+    #name {
+        margin-top: 20px;
+    }
+
+    .footercutton{
+        margin-top: 20px;
+    }
+
+    .footer_text {
+        margin-top: -36px;
+    }
+}
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .navbar-toggler i {
+        color: white;
+        border: white solid 2px;
+        padding: 5px 10px;
+        border-radius: 7px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu ul {
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .banner_text h2 {
+        font-size: 40px;
+    }
+
+    .banner_text h4 {
+        font-size: 30px;
+    }
+
+
+    .fintezzHead h1 {
+        text-align: center;
+    }
+
+    .fitnezzText {
+        text-align: justify;
+        padding-right: 0px;
+    }
+
+    .all_puts {
+        text-align: center;
+    }
+
+    #name {
+        margin-top: 20px;
+    }
+
+    .footercutton{
+        margin-top: 20px;
+    }
+
+    .footer_text {
+        margin-top: -36px;
+    }
+}
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .navbar-toggler i {
+        color: white;
+        border: white solid 2px;
+        padding: 5px 10px;
+        border-radius: 7px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu ul {
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .banner_text h2 {
+        font-size: 54px;
+    }
+
+    .banner_text h4 {
+        font-size: 36px;
+    }
+
+    
+    .fintezzHead h1 {
+        text-align: center;
+    }
+
+    .fitnezzText {
+        text-align: justify;
+        padding-right: 0px;
+    }
+
+    .all_puts {
+        text-align: center;
+    }
+
+    #name {
+        margin-top: 20px;
+    }
+
+    .footercutton{
+        margin-top: 20px;
+    }
+
+    .footer_text {
+        margin-top: -36px;
+    }
+}
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+    
+}
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+
+}
